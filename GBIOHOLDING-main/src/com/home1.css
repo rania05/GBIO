@@ -1,0 +1,135 @@
+.home11{
+    background-color: #532121;
+
+    width: 100%;
+    margin-top: -19px;
+    
+
+}
+
+h3{
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 10%;
+    font-weight: 100;
+
+
+}
+h1{
+    color: white;
+font-size: 35px;
+font-weight: 600;
+margin-left: 10%;
+}
+.homeimgandwithoutimg{
+    display: flex;
+    background-color: #532121;
+    justify-content: space-around;
+}
+.footer2{
+    display: flex;
+    flex-direction: row;
+    background-color: #532121;
+    
+}
+p{
+    margin-top: 1%;
+}
+img{
+    height: 500px;
+    
+    width: 100%;
+    
+    
+
+
+}
+
+.homewithoutimg{background-color: #532121;
+width: 70%;
+padding-left: 5%;
+
+}
+.footerbg{background-color: #532121;
+margin-left: 10%;
+margin-top: 1%;
+    
+    }
+h2{
+    color: white;
+    font-weight: 500;
+    margin-right: 8%;
+}
+
+p{
+    color: white;
+    margin-right: 8%;
+    
+
+}
+.aaa{
+    display: flex;
+    justify-content: center;
+}
+.aaa h1{
+    color: #532121;
+    font-size: 35px;
+    margin-left: 95%;
+    margin-top: 15%;
+
+}
+.aaa p{
+    color: rgb(128, 128, 128); 
+    margin-left: 19%;
+    font-size: 25px;
+    margin-top: 1%;
+    
+}
+
+.str h1{
+    color: #532121;
+    font-size: 35px;
+   
+    margin-top: 2%;
+
+}
+.str h2{
+    color: #532121;
+    font-size: 25px;
+   
+    margin-left: 10%;
+
+}
+
+.str p{
+    color: rgb(128, 128, 128); 
+    margin-left: 10%;
+    font-size: 16px;
+    margin-top: 1%;
+    
+}
+social-container {
+    background: #eee;
+    padding: 25px 50px;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+ 
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.linkedin {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color: white;
+  }

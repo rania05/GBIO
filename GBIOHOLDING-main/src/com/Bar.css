@@ -1,0 +1,55 @@
+.navbar{
+display: flex;
+background-color: #532121;
+position:  sticky !important ;
+
+}
+.logo{
+height: 20px;
+width: 20px;
+}
+ul{
+display: flex;
+justify-content: space-between;
+list-style: none;
+
+margin-top: 10%;
+margin-right: 30px;
+}
+li{
+color: white;
+text-decoration: none;
+margin-left: 35px;
+font-size: 16px;
+    line-height: 19px;
+font-family: Ftpolar,sans-serif;
+cursor: pointer;
+font-weight: 400;
+}
+
+li:hover svg{
+   transform: rotate(180deg);
+transition-duration: 1s;   
+}
+
+.drop{
+    position: absolute;
+   background-color: white;
+   opacity: 60%;
+   margin-top: 15px;
+   border-radius: 8%;
+   display: flex;
+
+}
+.drop ul{
+    display: flex;
+    flex-direction: column;
+padding-top: 0%;
+
+}
+.drop li{
+    color: black;
+margin-bottom: 15px;
+text-decoration: underline;
+
+}

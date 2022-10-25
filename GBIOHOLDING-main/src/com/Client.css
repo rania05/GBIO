@@ -1,0 +1,35 @@
+.client{
+    height: 600px;
+    background-color: #532121;
+width: 100%;
+}
+.client1 h1{
+    font-weight: 200;
+    
+}
+.client1{
+    padding-top: 50px;
+}
+.client2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 180px;
+}
+.client21{
+    margin-left: 4%;
+}
+.client23{
+    margin-right: 4%;
+}
+.client22{
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.client22 span{
+    padding-left: 200px;
+    color: white;
+}
+.client2 svg{
+    cursor: pointer;
+}

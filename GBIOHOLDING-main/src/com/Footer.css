@@ -1,0 +1,44 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.partie1 img{
+    height: 40px;
+    width: 40px;
+}
+.partie1 h1{
+    color: grey;
+    margin-left: 0%;
+}
+.partie1 h1:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+.partie1 p {
+    color: grey;
+}
+.adressh1{
+    color: gray;
+    font-size: 30px;
+
+}
+.adress{
+    display: flex;
+    justify-content: space-between;
+}
+.partie2{
+ margin-right: 25%;   
+}
+.partie1{
+    margin-left: 10%;
+}
+.partie2 a:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+a{
+    white-space: nowrap;
+}
+.footer{
+    margin-top: 200px;
+}

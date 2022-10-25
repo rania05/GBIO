@@ -1,0 +1,51 @@
+.puball{
+    background-color: #532121;
+    margin-top: 100px;
+}
+.pub1{
+    display: flex;
+    margin-right: 10%;
+margin-left: 10%;
+}
+.pubimg1{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    
+}
+.puball h1,h2,h4,h5,img{
+    margin-bottom: 40px;
+}
+.puball h4,h5{
+    color: gray;
+}
+.ahmed{
+    position: absolute;
+margin-top:-250px ;
+margin-left: 100px;
+background-color: white;
+height: 150px;
+width: 150px;
+border-radius: 50%;
+}
+.ahmed svg{
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 100px;
+    height: 100px;
+}
+.ahm{
+    position: absolute;
+    margin-top:-250px ;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 120px;
+}
+.ahm svg{
+    width: 100px;
+    height: 100px;
+    padding-left: 30px;
+    padding-top: 30px;
+}

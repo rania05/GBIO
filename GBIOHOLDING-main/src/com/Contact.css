@@ -1,0 +1,79 @@
+.Contact{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 100px;
+}
+
+.Contact h1{
+    color: black;
+    
+}
+
+.Contact h2,h3{
+    color: gray;
+    font-weight: 300;
+}
+.Contact h3{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.Contact1{
+    margin-top: 80px;
+}
+
+.Contact2 img{
+ 
+height: 300px;
+    
+}
+
+.con{
+    display: flex;
+    background-color: #532121;
+    height: 400px;
+}
+.con1{
+    height: 400px;
+    background-color: white;
+}
+.con1 img{
+    height: 400px;
+    
+}
+.con2 h3{
+color: white;
+text-decoration: underline;
+}
+.con2{
+    margin-top: 80px;
+}
+.con2 h1{
+    white-space: nowrap;
+    margin-bottom: 40px;
+    font-weight: 300;
+}
+.con2 input{
+    background-color: #532121;
+    border: 1px outset white;
+    margin-left: 50px;
+    margin-bottom: 40px;
+    width: 100%;
+    color: white;
+}
+.con2 h4{
+    color:white;
+    margin-left: 50px;
+    margin-bottom: 40px;
+font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+

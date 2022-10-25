@@ -1,0 +1,32 @@
+.conseils{
+    display: flex;
+
+    justify-content: space-around;
+margin-top: 100px;
+margin-right: 8%;
+margin-left: 8%;
+margin-bottom: 30px;
+}
+.conseils1{
+margin-right: 180px;
+margin-left: 0px;
+}
+
+.conseilsh1{
+color: rgb(128, 128, 128); 
+}
+.conseils h2 {
+color: #532121;
+
+}
+.conseils p {
+    color:  rgb(128, 128, 128); 
+    font-size: 20px;
+
+   
+    
+    }
+    .conseilsspan:hover{
+        cursor: pointer;
+        text-decoration: underline;
+    }
